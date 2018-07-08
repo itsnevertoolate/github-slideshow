@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"It's never too late to learn" - Halkapad
 Use the left arrow to go back!
